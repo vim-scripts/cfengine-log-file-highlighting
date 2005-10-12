@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1378
+
+Very early release and very buggy and incomplete, but it does work suitably enough that reading logfiles is no longer so difficult.  Currently highlights schedule changes, editfiles blocks, and when things "change" on the system (like when files get copied).  As I learn more about how to write syntax files, this should improve somewhat.
